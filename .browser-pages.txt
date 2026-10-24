@@ -1,0 +1,15 @@
+/
+/404.html
+/category/uncategorized/
+/consulta-e-cirurgia-com-neurocirurgiao-particular/
+/convenios/
+/especialidade/cirurgia-de-estenose-espinhal/
+/especialidade/endoscopia-de-base-de-cranio/
+/especialidade/tratamento-de-hernia-de-disco/
+/especialidade/tratamento-de-hidrocefalia/
+/especialidade/tratamento-de-patologias-degenerativas-da-coluna/
+/especialidade/tratamento-de-tumor-cerebral/
+/especialidade/tratamento-de-tumores-cerebrais-e-vertebrais/
+/hello-world/
+/home/
+/politica-de-privacidade/
